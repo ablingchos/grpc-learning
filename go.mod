@@ -1,8 +1,9 @@
-module github.com/ablingchos/grpc-learning
+module github.com/ablinchos/grpc-learning
 
 go 1.21.3
 
 require (
+	github.com/ablingchos/grpc-learning v0.0.0-20231107031233-f0d921884102
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
 )

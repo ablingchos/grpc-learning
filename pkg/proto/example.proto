@@ -1,8 +1,7 @@
 syntax = "proto3";
 
-
-option go_package = "github.com/ablingchos/grpc-learning/pkg/proto";
-package example;
+package proto;
+option go_package = "./";
 
 service Greeter {
   rpc SayHello (HelloRequest) returns (HelloResponse) {}
