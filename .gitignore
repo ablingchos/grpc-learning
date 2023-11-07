@@ -1,6 +1,5 @@
 /bin
 
-/cmd/client
-/cmd/server
+*.exe
 
 /pkg/proto/*.go
