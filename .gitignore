@@ -1,5 +1,3 @@
 /bin/
 
-/cmd/*.exe
-
-/pkg/proto/*.go
+.gitignore
